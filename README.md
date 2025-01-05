@@ -9,3 +9,7 @@ https://veno.es/venobox/
 - Copy the html code from the venobox website and modify accordingly, such as change the source of the **video** in the **anchor tag**; add fontAwosome tag **i** inside the anchor tag.
 - Copy-Paste the JS code from the venobox website.
 - We can use different properties for customisation, such as **data-maxwidth="400px"** (here, pixel value can be changed by any value).
+
+### 2. <ins> Typed.js jQuery Plugin </ins>
+*  Go to the link: https://codepen.io/merb/pen/yOwJjj
+*  
